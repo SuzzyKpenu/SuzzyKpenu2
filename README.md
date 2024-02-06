@@ -13,6 +13,6 @@ Power skill
 ## Data Modelling
 Tables are required on Data Modelling
 
-## OTB                                                                  |     ## WHP 
+## OTB                                                                  |     WHP 
 :--------------------------------------------------------------: |      |    :-------------------------------------------------------------------:
-![](https://github.com/SuzzyKpenu/SuzzyKpenu2/blob/main/OTB.%20PNG.PNG) | ![](https://github.com/SuzzyKpenu/SuzzyKpenu2/blob/main/Page%202.PNG)
+![](https://github.com/SuzzyKpenu/SuzzyKpenu2/blob/main/OTB.%20PNG.PNG) |     ![](https://github.com/SuzzyKpenu/SuzzyKpenu2/blob/main/Page%202.PNG)
